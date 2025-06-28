@@ -1,0 +1,14 @@
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana05\ejercicio1\bin\Debug\net9.0\ejercicio1.exe
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana05\ejercicio1\bin\Debug\net9.0\ejercicio1.deps.json
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana05\ejercicio1\bin\Debug\net9.0\ejercicio1.runtimeconfig.json
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana05\ejercicio1\bin\Debug\net9.0\ejercicio1.dll
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana05\ejercicio1\bin\Debug\net9.0\ejercicio1.pdb
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana05\ejercicio1\obj\Debug\net9.0\ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana05\ejercicio1\obj\Debug\net9.0\ejercicio1.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana05\ejercicio1\obj\Debug\net9.0\ejercicio1.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana05\ejercicio1\obj\Debug\net9.0\ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana05\ejercicio1\obj\Debug\net9.0\ejercicio1.dll
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana05\ejercicio1\obj\Debug\net9.0\refint\ejercicio1.dll
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana05\ejercicio1\obj\Debug\net9.0\ejercicio1.pdb
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana05\ejercicio1\obj\Debug\net9.0\ejercicio1.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana05\ejercicio1\obj\Debug\net9.0\ref\ejercicio1.dll
