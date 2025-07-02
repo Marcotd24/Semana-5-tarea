@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\Semana06\ejercicios-propuestos-de-listas-enlazada\bin\Debug\net9.0\ejercicios-propuestos-de-listas-enlazada.exe
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\Semana06\ejercicios-propuestos-de-listas-enlazada\bin\Debug\net9.0\ejercicios-propuestos-de-listas-enlazada.deps.json
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\Semana06\ejercicios-propuestos-de-listas-enlazada\bin\Debug\net9.0\ejercicios-propuestos-de-listas-enlazada.runtimeconfig.json
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\Semana06\ejercicios-propuestos-de-listas-enlazada\bin\Debug\net9.0\ejercicios-propuestos-de-listas-enlazada.dll
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\Semana06\ejercicios-propuestos-de-listas-enlazada\bin\Debug\net9.0\ejercicios-propuestos-de-listas-enlazada.pdb
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\Semana06\ejercicios-propuestos-de-listas-enlazada\obj\Debug\net9.0\ejercicios-propuestos-de-listas-enlazada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\Semana06\ejercicios-propuestos-de-listas-enlazada\obj\Debug\net9.0\ejercicios-propuestos-de-listas-enlazada.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\Semana06\ejercicios-propuestos-de-listas-enlazada\obj\Debug\net9.0\ejercicios-propuestos-de-listas-enlazada.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\Semana06\ejercicios-propuestos-de-listas-enlazada\obj\Debug\net9.0\ejercicios-propuestos-de-listas-enlazada.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\Semana06\ejercicios-propuestos-de-listas-enlazada\obj\Debug\net9.0\ejercicios-propuestos-de-listas-enlazada.sourcelink.json
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\Semana06\ejercicios-propuestos-de-listas-enlazada\obj\Debug\net9.0\ejercicios-propuestos-de-listas-enlazada.dll
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\Semana06\ejercicios-propuestos-de-listas-enlazada\obj\Debug\net9.0\refint\ejercicios-propuestos-de-listas-enlazada.dll
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\Semana06\ejercicios-propuestos-de-listas-enlazada\obj\Debug\net9.0\ejercicios-propuestos-de-listas-enlazada.pdb
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\Semana06\ejercicios-propuestos-de-listas-enlazada\obj\Debug\net9.0\ejercicios-propuestos-de-listas-enlazada.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\Semana06\ejercicios-propuestos-de-listas-enlazada\obj\Debug\net9.0\ref\ejercicios-propuestos-de-listas-enlazada.dll
