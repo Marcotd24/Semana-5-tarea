@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana07\bin\Debug\net9.0\semana07.exe
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana07\bin\Debug\net9.0\semana07.deps.json
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana07\bin\Debug\net9.0\semana07.runtimeconfig.json
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana07\bin\Debug\net9.0\semana07.dll
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana07\bin\Debug\net9.0\semana07.pdb
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana07\obj\Debug\net9.0\semana07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana07\obj\Debug\net9.0\semana07.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana07\obj\Debug\net9.0\semana07.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana07\obj\Debug\net9.0\semana07.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana07\obj\Debug\net9.0\semana07.sourcelink.json
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana07\obj\Debug\net9.0\semana07.dll
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana07\obj\Debug\net9.0\refint\semana07.dll
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana07\obj\Debug\net9.0\semana07.pdb
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana07\obj\Debug\net9.0\semana07.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana07\obj\Debug\net9.0\ref\semana07.dll
