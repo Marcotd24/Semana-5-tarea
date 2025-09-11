@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana13\bin\Debug\net8.0\semana13.exe
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana13\bin\Debug\net8.0\semana13.deps.json
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana13\bin\Debug\net8.0\semana13.runtimeconfig.json
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana13\bin\Debug\net8.0\semana13.dll
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana13\bin\Debug\net8.0\semana13.pdb
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana13\obj\Debug\net8.0\semana13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana13\obj\Debug\net8.0\semana13.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana13\obj\Debug\net8.0\semana13.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana13\obj\Debug\net8.0\semana13.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana13\obj\Debug\net8.0\semana13.sourcelink.json
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana13\obj\Debug\net8.0\semana13.dll
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana13\obj\Debug\net8.0\refint\semana13.dll
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana13\obj\Debug\net8.0\semana13.pdb
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana13\obj\Debug\net8.0\semana13.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Documentos\Estructuras de datos\semana13\obj\Debug\net8.0\ref\semana13.dll
